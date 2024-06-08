@@ -3,7 +3,7 @@
 
 This repository includes Python (PyTorch) implementation of this paper.
 
-Under review in TCSVT2024
+Accepted by TCSVT2024
 
 ![](./images/framework.png)
 
@@ -43,3 +43,13 @@ Please refer to the bash scripts
 ## Pretrained Model
 You can download the pretrained model from this link: [pretrained model on four ISLR datasets](https://rec.ustc.edu.cn/share/d8766290-0475-11ef-a181-0b1056e2faed)
 
+## Citation
+If you find this work useful for your research, please consider citing our work:
+```
+@article{zhao2024masa,
+  title={MASA: Motion-aware Masked Autoencoder with Semantic Alignment for Sign Language Recognition},
+  author={Zhao, Weichao and Hu, Hezhen and Zhou, Wengang and Mao, Yunyao and Wang, Min and Li, Houqiang},
+  journal={arXiv},
+  year={2024}
+}
+```
